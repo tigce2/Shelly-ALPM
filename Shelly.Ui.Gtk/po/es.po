@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: shelly-ui 2.2.4.1\n"
 "Report-Msgid-Bugs-To: csnyder@seafoamlabs.org\n"
 "POT-Creation-Date: 2026-07-03 00:26+0000\n"
-"PO-Revision-Date: 2026-07-28 20:44+0000\n"
+"PO-Revision-Date: 2026-07-28 21:13+0000\n"
 "Last-Translator: Tiago Centurion <tiagodecgo2@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/shelly-alpm/"
 "shelly-alpm/es/>\n"
@@ -1759,32 +1759,34 @@ msgstr "Verificado"
 msgid "Installing flatpak"
 msgstr "Instalando Flatpak"
 
+#, fuzzy
 msgid "Permissions"
-msgstr ""
+msgstr "Permisos"
 
 msgid "Unknown developer"
-msgstr ""
+msgstr "Desarrollador desconocido"
 
+#, fuzzy
 msgid "Version: Unknown"
-msgstr ""
+msgstr "Versión: Desconocida"
 
 msgid "Size: Loading..."
-msgstr ""
+msgstr "Tamaño: Cargando..."
 
 msgid "Size: Unknown"
-msgstr ""
+msgstr "Tamaño: Desconocido"
 
 msgid "License"
-msgstr ""
+msgstr "Licencia"
 
 msgid "License: Unknown"
-msgstr ""
+msgstr "Licencia: Desconocido"
 
 msgid "No summary available"
-msgstr ""
+msgstr "No hay resumen disponible"
 
 msgid "Size: Unavailable"
-msgstr ""
+msgstr "Tamaño: No disponible"
 
 msgid "Unable to load screenshot"
 msgstr ""
@@ -1796,148 +1798,151 @@ msgid "Unable to display screenshot"
 msgstr ""
 
 msgid "Open link in browser"
-msgstr ""
+msgstr "Enlace abierto en el navegador"
 
 msgid "Homepage"
-msgstr ""
+msgstr "Página principal"
 
 msgid "Bug tracker"
-msgstr ""
+msgstr "Rastreador de bug"
 
 msgid "Donation"
-msgstr ""
+msgstr "Donación"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "Vcs-browser"
 msgstr ""
 
 msgid "Contact"
-msgstr ""
+msgstr "Contacto"
 
 msgid "Translate"
-msgstr ""
+msgstr "Traducir"
 
 msgid "Unable to allocate memory while loading Flatpak data."
-msgstr ""
+msgstr "Incapaz de asignar memoria mientras se cargan datos de Flatpak."
 
 msgid "Unable to start the Flatpak data loader."
 msgstr ""
 
 msgid "Unable to load Flatpak applications."
-msgstr ""
+msgstr "Incapaz de cargar Flatpak aplicaciones."
 
 msgid "No Flatpak applications are available."
 msgstr ""
 
 msgid "Download Size"
-msgstr ""
+msgstr "Tamaño de descarga"
 
 msgid "Install Reason"
-msgstr ""
+msgstr "Motivo de instalación"
 
 msgid "Optional Depends"
-msgstr ""
+msgstr "Dependencias opcionales"
 
 msgid "Section"
-msgstr ""
+msgstr "Sección"
 
 msgid "Reinstalling package"
-msgstr ""
+msgstr "Reinstalando paquete"
 
 msgid "Adding to package ignore"
-msgstr ""
+msgstr "Agregando a paquetes ignorados"
 
 msgid "Adding to package to hold"
-msgstr ""
+msgstr "Añadiendo paquete a la lista de retención"
 
 msgid "Making Package Explicit"
-msgstr ""
+msgstr "Marcando paquete como explícito"
 
 msgid "Making Package Dependency"
-msgstr ""
+msgstr "Marcando paquete como dependencia"
 
 msgid "Failed to start operation."
-msgstr ""
+msgstr "No se pudo iniciar la operación."
 
 msgid "Pending"
-msgstr ""
+msgstr "Pendiente"
 
 msgid "Synchronizing databases"
-msgstr ""
+msgstr "Sincronizando bases de datos"
 
 msgid "Downloading"
-msgstr ""
+msgstr "Descargando"
 
 msgid "Building"
 msgstr ""
 
 msgid "Packaging"
-msgstr ""
+msgstr "Empaquetando"
 
 msgid "Installing"
-msgstr ""
+msgstr "Instalación"
 
 msgid "Upgrading"
-msgstr ""
+msgstr "Actualizando"
 
 msgid "Downgrading"
-msgstr ""
+msgstr "Desactualizando"
 
 msgid "Reinstalling"
-msgstr ""
+msgstr "Reinstalando"
 
 msgid "Removing"
-msgstr ""
+msgstr "Eliminando"
 
 msgid "Working"
-msgstr ""
+msgstr "Trabajando"
 
 msgid "Done"
-msgstr ""
+msgstr "Hecho"
 
 msgid "Failed"
-msgstr ""
+msgstr "Fallado"
 
 msgid "Finished"
-msgstr ""
+msgstr "Terminado"
 
 msgid "exit"
-msgstr ""
+msgstr "salir"
 
 msgid "Cancelled"
-msgstr ""
+msgstr "Cancelado"
 
 msgid "Static URL"
-msgstr ""
+msgstr "URL estatica"
 
 msgid "Update Available"
-msgstr ""
+msgstr "Actualización disponible"
 
+#, fuzzy
 msgid "Version ?"
-msgstr ""
+msgstr "¿Versión?"
 
+#, fuzzy
 msgid "Choose an AppImage file"
-msgstr ""
+msgstr "Elija un archivo AppImage"
 
+#, fuzzy
 msgid "AppImage files"
-msgstr ""
+msgstr "Archivos AppImage"
 
 msgid "Only .AppImage files can be installed"
-msgstr ""
+msgstr "Sólo los archivos .AppImage se pueden instalar"
 
 msgid "Installing AppImage"
-msgstr ""
+msgstr "Instalando AppImage"
 
 msgid "Upgrading AppImages"
-msgstr ""
+msgstr "Actualizando AppImages"
 
 msgid "Syncing AppImages"
-msgstr ""
+msgstr "Sincronizando AppImages"
 
 msgid "Syncing AppImage"
 msgstr ""
