@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: shelly-ui 2.2.4.1\n"
 "Report-Msgid-Bugs-To: csnyder@seafoamlabs.org\n"
 "POT-Creation-Date: 2026-07-03 00:26+0000\n"
-"PO-Revision-Date: 2026-07-19 02:25-0300\n"
-"Last-Translator: tiago <tiagodecgo2@gmail.com>\n"
-"Language-Team: Spanish <es@tp.org.es>\n"
+"PO-Revision-Date: 2026-07-28 20:44+0000\n"
+"Last-Translator: Tiago Centurion <tiagodecgo2@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/shelly-alpm/"
+"shelly-alpm/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.9\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 msgid "Loading..."
 msgstr "Cargando..."
@@ -1568,174 +1569,195 @@ msgid "Calculating"
 msgstr "Calculando"
 
 msgid "Install source"
-msgstr ""
+msgstr "Instalar fuente"
 
 msgid "Install a local Flatpak"
-msgstr ""
+msgstr "Instalar un Flatpak local"
 
 msgid ""
 "Choose a .flatpak bundle from your system and install it for the current "
 "user or system-wide."
 msgstr ""
+"Elija un paquete .flatpak de su sistema e instálelo para el usuario actual o "
+"para todo el sistema."
 
 msgid "Bundle"
-msgstr ""
+msgstr "Paquete"
 
 msgid "Choose file…"
-msgstr ""
+msgstr "Elija el archivo…"
 
+#, fuzzy
 msgid "Install for"
-msgstr ""
+msgstr "Instalar para"
 
 msgid "Browse"
-msgstr ""
+msgstr "Explorar"
 
+#, fuzzy
 msgid "Shelly"
-msgstr ""
+msgstr "Shelly"
 
 msgid "Reinstall"
-msgstr ""
+msgstr "Reinstalar"
 
 msgid "Add Ignore"
-msgstr ""
+msgstr "Añadir a ignorados"
 
+#, fuzzy
 msgid "Add Hold"
-msgstr ""
+msgstr "Marcar para no actualizar"
 
 msgid "Make Explicit"
-msgstr ""
+msgstr "Marcar como instalado explícitamente"
 
 msgid "Mark Dependency"
-msgstr ""
+msgstr "Dependencia de marca"
 
 msgid "Package actions"
-msgstr ""
+msgstr "Acciones de paquetes"
 
 msgid "Information"
-msgstr ""
+msgstr "Información"
 
 msgid "7 of 7 updates included"
-msgstr ""
+msgstr "7 de 7 actualizaciones incluidas"
 
 msgid "Check all enabled sources again"
-msgstr ""
+msgstr "Compruebe todas las fuentes habilitadas de nuevo"
 
 msgid "Check Again"
-msgstr ""
+msgstr "Revisa de nuevo"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "Actualización"
 
 msgid "Checking for updates…"
-msgstr ""
+msgstr "Comprobando actualizaciones…"
 
 msgid "Your system is up to date"
-msgstr ""
+msgstr "Su sistema está actualizado"
 
 msgid "Could not check for updates"
-msgstr ""
+msgstr "No se pudo comprobar si hay actualizaciones"
 
 msgid "Installed Only"
-msgstr ""
+msgstr "Solo instalados"
 
 msgid "Show only installed packages"
-msgstr ""
+msgstr "Mostrar sólo paquetes instalados"
 
 msgid "Show Explicit Only"
-msgstr ""
+msgstr "Mostrar solo instalados explícitamente"
 
 msgid "Show only explicitly installed packages"
-msgstr ""
+msgstr "Mostrar sólo paquetes instalados explícitamente"
 
 msgid "Hide Detail Pane"
-msgstr ""
+msgstr "Ocultar panel de detalles"
 
 msgid "Toggle output"
-msgstr ""
+msgstr "Mostrar/Ocultar detalles de salida"
 
 msgid "Invalid format. Use owner/repo (e.g., seafoam-labs/shelly-alpm)"
 msgstr ""
+"Formato no válido. Usa propietario/repositorio (ej., seafoam-labs/shelly-"
+"alpm)"
 
 msgid "Enable Recommended"
-msgstr ""
+msgstr "Habilitar Recomendados"
 
+#, fuzzy
 msgid ":"
-msgstr ""
+msgstr ":"
 
+#, fuzzy
 msgid "v0.0.0"
-msgstr ""
+msgstr "v0.0.0"
 
+#, fuzzy
 msgid "Search the AUR by name or keyword"
-msgstr ""
+msgstr "Buscar el AUR por nombre o palabra clave"
 
+#, fuzzy
 msgid "Show only packages already installed on this system"
-msgstr ""
+msgstr "Mostrar sólo paquetes ya instalados en este sistema"
 
+#, fuzzy
 msgid "Search the AUR"
-msgstr ""
+msgstr "Buscar en el AUR"
 
 msgid "The AUR has no browsable index type a package name to begin."
 msgstr ""
+"El AUR no tiene un índice para explorar; escribe el nombre de un paquete "
+"para comenzar."
 
+#, fuzzy
 msgid "Run the --check function during package build"
-msgstr ""
+msgstr "Ejecutar la función --check durante la construcción de paquetes"
 
 msgid "Hide the detail pane on the right"
-msgstr ""
+msgstr "Ocultar el panel de detalles a la derecha"
 
 msgid "Skip"
-msgstr ""
+msgstr "Saltar"
 
 msgid "No special permissions requested"
-msgstr ""
+msgstr "No se solicitan permisos especiales"
 
 msgid "Warnings"
-msgstr ""
+msgstr "Advertencias"
 
 msgid "Source Files"
-msgstr ""
+msgstr "Archivos fuente"
 
 msgid "Removing Remote"
-msgstr ""
+msgstr "Eliminando repositorio remoto"
 
 msgid "Adding Remote"
-msgstr ""
+msgstr "Añadiendo repositorio remoto"
 
 msgid "Removing Flatpak"
-msgstr ""
+msgstr "Desinstalar Flatpak"
 
 msgid "Choose a Flatpak file"
-msgstr ""
+msgstr "Elija un archivo Flatpak"
 
 msgid "Flatpak files"
-msgstr ""
+msgstr "Archivos Flatpak"
 
+#, fuzzy
 msgid "Unsupported file type. Choose a .flatpak or .flatpakref file."
-msgstr ""
+msgstr "Tipo de archivo sin soporte. Elija un archivo .flatpak o .flatpakref."
 
+#, fuzzy
 msgid "Installing local flatpak"
-msgstr ""
+msgstr "Instalar Flatpak local"
 
+#, fuzzy
 msgid "Installation failed."
-msgstr ""
+msgstr "La instalación falló."
 
+#, fuzzy
 msgid "Installation complete."
-msgstr ""
+msgstr "Instalación completa."
 
 msgid "Choose file..."
-msgstr ""
+msgstr "Seleccionar archivo..."
 
 msgid "Discover"
-msgstr ""
+msgstr "Descubrir"
 
+#, fuzzy
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
+#, fuzzy
 msgid "Verified"
-msgstr ""
+msgstr "Verificado"
 
 msgid "Installing flatpak"
-msgstr ""
+msgstr "Instalando Flatpak"
 
 msgid "Permissions"
 msgstr ""
